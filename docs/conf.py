@@ -4,9 +4,9 @@ import os
 import sys
 sys.path.insert(0, os.path.abspath('.'))
 
-project = 'Webroot Product'
+project = 'Webroot Shield'
 copyright = '2025'
-author = 'Vincent Massey'
+author = 'Alexis Conran'
 
 release = '1.0'
 
