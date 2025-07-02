@@ -4,7 +4,7 @@ import os
 import sys
 sys.path.insert(0, os.path.abspath('.'))
 
-project = 'Webroot Shield'
+project = 'Rroot Shield'
 copyright = '2025'
 author = 'Alexis Conran'
 
