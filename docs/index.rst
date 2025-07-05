@@ -8,7 +8,6 @@ If you've already purchased a Webroot subscription and are wondering how to set 
        <a href="https://webrootdesk.hostlink.click" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Go with Webroot Page</a>
    </div>
 
-
 How to Install Webroot Already Purchased
 ----------------------------------------
 
